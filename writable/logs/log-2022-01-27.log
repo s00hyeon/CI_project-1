@@ -1,0 +1,6 @@
+CRITICAL - 2022-01-27 23:05:43 --> Call to undefined function App\Controllers\connect()
+#0 C:\usermanagement\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#1 C:\usermanagement\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 C:\usermanagement\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 C:\usermanagement\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
