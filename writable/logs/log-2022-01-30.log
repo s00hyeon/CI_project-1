@@ -1,0 +1,36 @@
+CRITICAL - 2022-01-30 22:32:41 --> Invalid file: user.php
+#0 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\app\Controllers\Home.php(10): view()
+#3 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-30 22:32:46 --> Invalid file: user.php
+#0 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\app\Controllers\Home.php(10): view()
+#3 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-30 22:36:39 --> Invalid file: user.php
+#0 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\app\Controllers\Home.php(10): view()
+#3 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-30 22:36:41 --> Invalid file: user.php
+#0 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\Common.php(1089): CodeIgniter\View\View->render()
+#2 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\app\Controllers\Home.php(10): view()
+#3 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#5 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 C:\Bitnami\wampstack-8.1.1-0\apache2\htdocs\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
